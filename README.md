@@ -1,2 +1,2 @@
 # repbasket
-Repository basket for hugojumex.
+Repository basket for hugoljumex.
